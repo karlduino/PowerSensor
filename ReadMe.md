@@ -7,7 +7,7 @@ a email/text.
   resistor
 - A green LED is connected to pin A2, lit when power is on.
 - A red LED is connected to pin A5, lit when power is off.
-- Currently using an [Arduino Y&uacute;] and sending email from a
+- Currently using an [Arduino Y&uacute;n](https://www.arduino.cc/en/Main/ArduinoBoardYun) and sending email from a
   gmail account using
   [this sketch](https://temboo.com/arduino/yun/send-an-email) at
   [Temboo](https://temboo.com), which also requires a Temboo account.
