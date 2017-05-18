@@ -14,3 +14,9 @@ a email/text.
 
 I'm powering the arduino with a UPS. But, of course, if my web
 connection goes down (my cable modem or router), this won't work.
+
+Also checkout out
+[PowerSensor_wTemp](https://github.com/karlduino/PowerSensor_wTemp),
+the same thing plus there's a temperature/humidity sensor attached,
+and I run a web server on the Y&uacute;n side to display the current
+time and temp.
